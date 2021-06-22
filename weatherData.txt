@@ -1,0 +1,24 @@
+Showing weather details for BANGALORE at 15:14:12, 22 June 2021
+Current Temperature: 28.54 degree Celsius
+Current Humidity   : 50%
+Current Wind Speed : 2.57kmph
+Weather Description: scattered clouds
+
+Showing weather details for DELHI at 15:15:00, 22 June 2021
+Current Temperature: 39.20 degree Celsius
+Current Humidity   : 30%
+Current Wind Speed : 4.12kmph
+Weather Description: haze
+
+Showing weather details for MANGALORE at 15:15:56, 22 June 2021
+Current Temperature: 29.63 degree Celsius
+Current Humidity   : 79%
+Current Wind Speed : 1.54kmph
+Weather Description: scattered clouds
+
+Showing weather details for BANGALORE at 15:20:01, 22 June 2021
+Current Temperature: 28.54 degree Celsius
+Current Humidity   : 50%
+Current Wind Speed : 2.57kmph
+Weather Description: scattered clouds
+
